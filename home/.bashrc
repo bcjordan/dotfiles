@@ -40,6 +40,7 @@ alias o.="open ."
 
 alias rc="vim ~/.bashrc"
 alias src="source ~/.bashrc"
+alias dot="cd ~/.homesick/repos/dotfiles/"
 
 alias ls="ls -FGa"
 
