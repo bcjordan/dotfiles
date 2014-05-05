@@ -10,7 +10,7 @@ call vundle#rc()
 
 " Vundle bundles
 Bundle 'gmarik/vundle'
-Bundle 'kien/ctrlp'
+Bundle 'kien/ctrlp.vim'
 Bundle 'majutsushi/tagbar'
 Bundle 'tpope/vim-bundler'
 Bundle 'tpope/vim-cucumber'
