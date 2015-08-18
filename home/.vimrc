@@ -19,6 +19,7 @@ Bundle 'tpope/vim-rails'
 Bundle 'vim-ruby/vim-ruby'
 Bundle 'tpope/vim-sensible'
 Bundle 'plasticboy/vim-markdown'
+Bundle 'tpope/vim-surround'
 
 syntax on
 filetype plugin indent on
